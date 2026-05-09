@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hey, I'm Antonio Figueiredo
+# Antonio Figueiredo
 
-**Forward Deployed Engineer @ Salesforce** </br>
-**Agentforce · AI Tooling · Voice AI**
+**Forward Deployed Engineer, Senior Director @ Salesforce** </br>
+**Agentforce · AI Tooling · Voice AI · Writer**
 
 [![X](https://img.shields.io/badge/X-@afigueiredo-000000?style=flat&logo=x&logoColor=white)](https://x.com/afigueiredo)
 [![GitHub](https://img.shields.io/badge/GitHub-afigueiredo-181717?style=flat&logo=github)](https://github.com/afigueiredo)
