@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Antonio Figueiredo
+# Hey, I'm Antonio Figueiredo
 
 **Forward Deployed Engineer @ Salesforce** </br>
 **Agentforce · AI Tooling · Voice AI**
