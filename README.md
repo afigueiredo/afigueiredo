@@ -48,6 +48,13 @@ I've been writing about AI agents, enterprise systems, and practical patterns si
 
 ### What I'm Building
 
+#### [salesforce-claude-skills](https://github.com/afigueiredo/salesforce-claude-skills) 
+**Claude Code skill pack for Salesforce & Agentforce developers**
+
+A growing collection of Claude Code skills for daily SF development: org management, SOQL, Apex test runner, deploy automation, and more. Extracted from production FDE workflows.
+
+`Claude Code` `Salesforce CLI` `Skills` `Developer Tools`
+
 #### [agentforce-voice-eval](https://github.com/afigueiredo/agentforce-voice-eval) *(coming soon)*
 **Automated quality evaluation for Agentforce Voice agents**
 
@@ -61,13 +68,6 @@ Two-phase pipeline: conversation runner (parallel sessions via REST API, latency
 Watermark-based incremental sync from Salesforce Data Cloud to S3, with Athena query support. Handles governor limits, duplicate detection, and backfill. Built from real customer deployments.
 
 `Data Cloud` `AWS S3` `Athena` `Python` `Salesforce`
-
-#### [salesforce-claude-skills](https://github.com/afigueiredo/salesforce-claude-skills) *(coming soon)*
-**Claude Code skill pack for Salesforce & Agentforce developers**
-
-A growing collection of Claude Code skills for daily SF development: org management, SOQL, Apex test runner, deploy automation, and more. Extracted from production FDE workflows.
-
-`Claude Code` `Salesforce CLI` `Skills` `Developer Tools`
 
 #### [sf-fde-skills](https://github.com/afigueiredo/sf-fde-skills) *(coming soon)*
 **Slack + session management skills for FDE workflows**
