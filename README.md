@@ -12,6 +12,11 @@ Agentforce · AI Tooling · Voice AI · LLM Evaluation · Writer
 [![Location](https://img.shields.io/badge/📍-Boston,_MA-green?style=flat)](#)
 
 </div>
+<div align="center">
+
+  "I build AI agents and the tooling around them."
+
+</div>
 
 ---
 
