@@ -14,7 +14,7 @@ Agentforce · AI Tooling · Voice AI · LLM Evaluation · Writer
 </div>
 <div align="center">
 
-  "I build AI agents and the tooling around them."
+  ***I build AI agents and the tooling around them.*** -- Antonio
 
 </div>
 
