@@ -53,12 +53,12 @@ I've been writing about AI agents, enterprise systems, and practical patterns si
 
 ### What I'm Building
 
-#### [salesforce-claude-skills](https://github.com/afigueiredo/salesforce-claude-skills) 
-**Claude Code skill pack for Salesforce & Agentforce developers**
+#### [claude-code-field-guide](https://github.com/afigueiredo/claude-code-field-guide)
+**Layered Claude Code configuration for serious project work**
 
-A growing collection of Claude Code skills for daily SF development: org management, SOQL, Apex test runner, deploy automation, and more. Extracted from production FDE workflows.
+A practical configuration system for making Claude Code consistent across projects, domains, and teams. Includes Salesforce and Agentforce examples extracted from production FDE workflows.
 
-`Claude Code` `Salesforce CLI` `Skills` `Developer Tools`
+`Claude Code` `Configuration` `Salesforce` `Agentforce` `Developer Tools`
 
 #### [agentforce-voice-eval](https://github.com/afigueiredo/agentforce-voice-eval) *(coming soon)*
 **Automated quality evaluation for Agentforce Voice agents**
